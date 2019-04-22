@@ -1,0 +1,5 @@
+com/joaopaulofcc/gt4w/model/Pessoa.class
+com/joaopaulofcc/gt4w/Gt4wApplication.class
+com/joaopaulofcc/gt4w/repository/PessoaRepository.class
+com/joaopaulofcc/gt4w/controller/PessoaController.class
+com/joaopaulofcc/gt4w/config/SwaggerConfig.class
