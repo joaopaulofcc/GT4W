@@ -1,4 +1,4 @@
-# Aplicação Cliente ![VueJS 3.3.3](https://img.shields.io/badge/vue-3.5.5-green.svg)
+# Aplicação Cliente ![VueJS 3.3.3](https://img.shields.io/badge/vueJS-3.5.5-green.svg)
 Essa aplicação foi desenvolvida utilizando o framework VueJS 3.5.5. Seu objetivo é fornecer um frontend para a aplicação "server" contida também nesse repositório.
 
 Ela fornece as seguintes funcionalidades:
