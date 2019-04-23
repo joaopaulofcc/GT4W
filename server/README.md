@@ -28,8 +28,8 @@ Um objeto da Classe Pesso é composto de:
 Essa aplicação persiste os dados em PostgreSQL 11.2, é necessário:
 
     1. Alterar as configurações do arquivo "resources/aplication.properties":
-        - Configurar a porta e a base de dados que será utilizada (a aplicação está utilizando a base GT4W);
-        - Configurar o usuário e senha para acesso ao banco..
+        - Configurar a porta do banco e a base de dados que será utilizada (a aplicação está utilizando a base GT4W);
+        - Configurar o usuário e senha para acesso ao banco.
 
 ### Executando a aplicação
 
