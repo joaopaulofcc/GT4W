@@ -17,5 +17,4 @@ Projeto com a implementação exigida no processo seletivo 2019.
 
 [README](server/README.md)
 
-
-<img src="media/GT4W.gif" height="309" width="277">
+![](media/GT4W.gif)">
